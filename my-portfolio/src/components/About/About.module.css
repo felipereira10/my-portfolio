@@ -26,8 +26,19 @@
 }
 
 .aboutImage {
-  width: 35%;
+  width: 15%;
+  border-radius: 10px;
+  transition: transform 0.5s ease, box-shadow 0.5s ease, filter 0.5s ease;
+  cursor: pointer;
 }
+
+.aboutImage:hover {
+  transform: scale(1.07) rotate(-1deg);
+  box-shadow: 0 12px 20px rgba(0, 0, 0, 0.15);
+  filter: brightness(1.05);
+}
+
+
 
 .aboutItems {
   color: var(--color-text);
