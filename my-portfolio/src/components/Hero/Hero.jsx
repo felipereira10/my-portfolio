@@ -9,10 +9,10 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Felipe Pereira</h1>
         <p className={styles.description}>
-        I'm a Full-Stack Developer with over 1 year of experience building modern web applications using React and Node.js. I have hands-on experience with databases like MongoDB and MySQL, and I'm certified in Google Cloud. I also work with AWS services, and I actively use Python and TypeScript to develop scalable, high-performance solutions across the stack. Reach out if you'd like to learn more!
+        I'm a Full-Stack Developer with over 1 year of experience building modern web applications using React, React-native and Node.js. I have hands-on experience with databases like MongoDB and MySQL, and I'm certified in Google Cloud. I also work with AWS services, and I actively use Python and TypeScript to develop scalable, high-performance solutions across the stack. Reach out if you'd like to learn more!
         </p>
         <a href="mailto:myemail@email.com" className={styles.contactBtn}>
-          Contact Me
+          Contact Me!
         </a>
       </div>
       <img

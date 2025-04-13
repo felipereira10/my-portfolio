@@ -22,10 +22,6 @@
   display: none;
 }
 
-.menu {
-  display: flex;
-}
-
 .menuItems {
   display: flex;
   gap: 47px;
@@ -36,6 +32,25 @@
   font-size: 25px;
   color: var(--color-text);
   text-decoration: none;
+  position: relative;
+  padding: 5px;
+  transition: all 0.3s ease;
+}
+
+/* Efeito de hover - borda branca e letra azul */
+.menuItems a:hover {
+  color: #19376d;  /* Altera a cor da letra para azul */
+  background-color: white;  /* Adiciona a borda branca */
+  border-radius: 25px;  /* Pode adicionar um arredondamento na borda, se quiser */
+  padding: 5px 10px;  /* Ajuste o padding para que a borda tenha um bom espaçamento */
+}
+
+/* Para itens que são focados também, por acessibilidade */
+.menuItems a:focus {
+  color: #19376d;
+  background-color: white;
+  border-radius: 25px;
+  padding: 5px 10px;
 }
 
 @media screen and (max-width: 830px) {
