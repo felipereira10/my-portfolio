@@ -7,10 +7,9 @@ export const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Hi, I'm Ada</h1>
+        <h1 className={styles.title}>Hi, I'm Felipe Pereira</h1>
         <p className={styles.description}>
-          I'm a full-stack developer with 5 years of experience using React and
-          NodeJS. Reach out if you'd like to learn more!
+        I'm a Full-Stack Developer with over 1 year of experience building modern web applications using React and Node.js. I have hands-on experience with databases like MongoDB and MySQL, and I'm certified in Google Cloud. I also work with AWS services, and I actively use Python and TypeScript to develop scalable, high-performance solutions across the stack. Reach out if you'd like to learn more!
         </p>
         <a href="mailto:myemail@email.com" className={styles.contactBtn}>
           Contact Me
@@ -21,6 +20,8 @@ export const Hero = () => {
         alt="Hero image of me"
         className={styles.heroImg}
       />
+
+
       <div className={styles.topBlur} />
       <div className={styles.bottomBlur} />
     </section>
