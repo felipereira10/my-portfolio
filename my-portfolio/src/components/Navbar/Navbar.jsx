@@ -22,6 +22,9 @@ export const Navbar = () => {
           alt="menu-button"
           onClick={() => setMenuOpen(!menuOpen)}
         />
+        <button onClick={() => setLanguage('en')}>EN</button>
+        <button onClick={() => setLanguage('pt')}>PT</button>
+
         <ul
           className={`${styles.menuItems} ${menuOpen && styles.menuOpen}`}
           onClick={() => setMenuOpen(false)}
