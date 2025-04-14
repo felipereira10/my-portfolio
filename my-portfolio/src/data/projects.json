@@ -1,19 +1,19 @@
 [
   {
-    "title": "Project A",
+    "title": "Project Gastronomy",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "skills": ["React", "Node", "MongoDB"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/felipereira10/Gastronomy-Final"
   },
   {
-    "title": "Project B",
+    "title": "Project CRUD",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "skills": ["React", "Node", "MySQL"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/felipereira10/CRUD-FullStack"
   },
   {
     "title": "Project C",
