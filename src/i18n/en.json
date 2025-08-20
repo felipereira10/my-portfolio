@@ -1,0 +1,31 @@
+{
+  "navbar": {
+    "about": "About",
+    "experience": "Experience",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "home": {
+    "title": "Welcome to my Portfolio"
+  },
+  "hero": {
+    "title": "Hi, I'm Felipe Pereira",
+    "description": "I'm a Full-Stack Developer with over 1 year of experience building modern web applications using React, React Native and Node.js. I have hands-on experience with databases like MongoDB and MySQL, and I'm certified in Google Cloud. I also work with AWS services, and I actively use Python and TypeScript to develop scalable, high-performance solutions across the stack. Reach out if you'd like to learn more!",
+    "contact": "Contact Me!"
+  },
+  "about": {
+    "title": "About",
+    "frontend": {
+      "title": "Frontend Developer",
+      "desc": "I am a Frontend Developer skilled in building responsive, user-friendly websites. I focus on creating visually appealing interfaces and ensuring optimal performance across devices and browsers, while leveraging the latest frontend technologies and best practices."
+    },
+    "backend": {
+      "title": "Backend Developer",
+      "desc": "I have experience in developing fast, efficient backend systems and APIs, ensuring optimal performance and scalability."
+    },
+    "ui": {
+      "title": "UI Designer",
+      "desc": "I have conducted design research, crafted intuitive visual interfaces, and implemented responsive designs for optimal user experiences across all devices."
+    }
+  }
+}

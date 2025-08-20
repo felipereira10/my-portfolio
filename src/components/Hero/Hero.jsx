@@ -1,18 +1,20 @@
 import React from "react";
-
 import styles from "./Hero.module.css";
 import { getImageUrl } from "../../utils";
+import { useTranslation } from "react-i18next";
 
 export const Hero = () => {
+  const { t, i18n } = useTranslation();
+
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Hi, I'm Felipe Pereira</h1>
+        <h2 className={styles.title}>{t("hero.title")}</h2>
         <p className={styles.description}>
-        I'm a Full-Stack Developer with over 1 year of experience building modern web applications using React, React-native and Node.js. I have hands-on experience with databases like MongoDB and MySQL, and I'm certified in Google Cloud. I also work with AWS services, and I actively use Python and TypeScript to develop scalable, high-performance solutions across the stack. Reach out if you'd like to learn more!
+        {t("hero.description")}
         </p>
         <a href="mailto:myemail@email.com" className={styles.contactBtn}>
-          Contact Me!
+          {t("hero.contact")}
         </a>
       </div>
       <img

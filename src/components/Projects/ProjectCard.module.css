@@ -8,21 +8,30 @@
   box-shadow: 0 16px 14px 0 #04152d;
   padding: 18px 24px;
   max-width: 345px;
+  height: 630px;
 }
 
 .image {
   margin-bottom: 26px;
+  width: 100%;      /* ocupa toda a largura do card */
+  height: 210px;    /* altura fixa pra todas iguais */
+  object-fit: cover; /* corta proporcionalmente pra caber */
+  border-radius: 12px; /* cantos arredondados */
 }
 
 .title {
   font-size: 25px;
   font-weight: 700;
+  text-align: center;
+  border-width: 1px;
+  border-color: aliceblue;
 }
 
 .description {
   margin-top: 6px;
   font-size: 25px;
   font-weight: 400;
+  text-align: center;
 }
 
 .skills {
@@ -33,6 +42,7 @@
   flex-wrap: wrap;
   gap: 6px;
   list-style: none;
+  justify-content: center;
 }
 
 .skill {

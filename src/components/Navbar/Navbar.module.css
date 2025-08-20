@@ -41,7 +41,8 @@
 .menuItems a:hover {
   color: #19376d;  /* Altera a cor da letra para azul */
   background-color: white;  /* Adiciona a borda branca */
-  border-radius: 25px;  /* Pode adicionar um arredondamento na borda, se quiser */
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
+  border-radius: 18px;  /* Pode adicionar um arredondamento na borda, se quiser */
   padding: 5px 10px;  /* Ajuste o padding para que a borda tenha um bom espaçamento */
 }
 
@@ -51,6 +52,36 @@
   background-color: white;
   border-radius: 25px;
   padding: 5px 10px;
+}
+
+.langSwitcher {
+  display: flex;
+  gap: 10px; /* espaço entre os botões */
+  margin-left: 20px; /* dá um respiro da navbar */
+}
+
+.langSwitcher button {
+  background: transparent;
+  border: 2px solid var(--color-text);
+  color: var(--color-text);
+  border-radius: 8px;
+  padding: 5px 12px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: all 0.3s ease;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  outline: none;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.1);
+  
+}
+
+.langSwitcher button:hover {
+  background: var(--color-text);
+  color: #19376d;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
+  border-radius: 18px;
 }
 
 @media screen and (max-width: 830px) {
