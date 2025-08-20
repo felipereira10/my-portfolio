@@ -6,6 +6,7 @@ import { Hero } from "./components/Hero/Hero";
 import { Navbar } from "./components/Navbar/Navbar";
 import { Projects } from "./components/Projects/Projects";
 import { ProjectsTeam } from "./components/ProjectsTeam/ProjectsTeam";
+import "./i18n/i18n";
 
 function App() {
   return (

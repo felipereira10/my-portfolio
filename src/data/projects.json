@@ -1,15 +1,15 @@
 [
   {
     "title": "Project Gastronomy",
-    "imageSrc": "projects/project.png",
-    "description": "O projeto é uma aplicação ",
+    "imageSrc": "projects/MyGastronomyProject.png",
+    "description": "This project is an online ordering app with menu management and administrative preferences.",
     "skills": ["React", "Node", "MongoDB"],
     "demo": "https://www.example.com",
     "source": "https://github.com/felipereira10/Gastronomy-Final"
   },
   {
     "title": "Project FSPay",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/FSPayProject.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["React", "Node", "MySQL"],
     "demo": "https://www.example.com",
@@ -17,7 +17,7 @@
   },
   {
     "title": "Project CRUD",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/CRUDProject.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["React", "Node", "MySQL"],
     "demo": "https://www.example.com",
