@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project Gastronomy",
+    "title": "Integrated Project V",
     "imageSrc": "projects/project.png",
-    "description": "O projeto é uma aplicação ",
-    "skills": ["React", "Node", "MongoDB"],
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React-native", "Node", "MongoDB"],
     "demo": "https://www.example.com",
     "source": "https://github.com/felipereira10/Gastronomy-Final"
   },
   {
-    "title": "Project FSPay",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Node", "MySQL"],
-    "demo": "https://www.example.com",
-    "source": "https://github.com/felipereira10/FSPay"
-  },
-  {
-    "title": "Project CRUD",
+    "title": "Integrated Project IV",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["React", "Node", "MySQL"],
     "demo": "https://www.example.com",
     "source": "https://github.com/felipereira10/CRUD-FullStack"
+  },
+  {
+    "title": "Integrated Project III",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Node", "MySQL"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Code-Lotus/api-3"
   }
 ]
