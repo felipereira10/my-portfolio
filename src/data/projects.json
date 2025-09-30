@@ -1,26 +1,23 @@
 [
   {
-    "title": "Project Gastronomy",
+    "id": 0,
     "imageSrc": "projects/MyGastronomyProject.png",
-    "description": "This project is an online ordering app with menu management and administrative preferences.",
     "skills": ["React", "Node", "MongoDB"],
-    "demo": "https://www.example.com",
+    "demo": "https://gastronomy.vercel.app",
     "source": "https://github.com/felipereira10/Gastronomy-Final"
   },
   {
-    "title": "Project FSPay",
+    "id": 1,
     "imageSrc": "projects/FSPayProject.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Node", "MySQL"],
-    "demo": "https://www.example.com",
+    "skills": ["React", "FastAPI", "Python", "MySQL"],
+    "demo": "https://fspay.vercel.app",
     "source": "https://github.com/felipereira10/FSPay"
   },
   {
-    "title": "Project CRUD",
+    "id": 2,
     "imageSrc": "projects/CRUDProject.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["React", "Node", "MySQL"],
-    "demo": "https://www.example.com",
+    "demo": "https://crud-fullstack.vercel.app",
     "source": "https://github.com/felipereira10/CRUD-FullStack"
   }
 ]
