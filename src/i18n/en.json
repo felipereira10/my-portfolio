@@ -27,5 +27,69 @@
       "title": "UI Designer",
       "desc": "I have conducted design research, crafted intuitive visual interfaces, and implemented responsive designs for optimal user experiences across all devices."
     }
+  },
+  "experience": {
+    "title": "Experience",
+    "history": {
+      "0": {
+        "role": "Full Stack Developer - Intern",
+        "organisation": "Redenção Turismo",
+        "startDate": "Jan, 2025",
+        "endDate": "Present",
+        "experiences": {
+          "0": "Software development support, with: Python, Java, TypeScript, JavaScript, React e Node.js",
+          "1": "Database maintenance (noSQL e SQL)",
+          "2": "Helpdesk service",
+          "3": "Linux system administration"
+        }
+      },
+      "1": {
+        "role": "Full Stack Developer",
+        "organisation": "Freelancer",
+        "startDate": "Mar, 2024",
+        "endDate": "Dec, 2024",
+        "experiences": {
+          "0": "I worked with software development, from bug fixing to building new features. Technologies used: React, Node.js, MongoDB, MySQL, Python, and TypeScript."
+        }
+      }
+    }
+  },
+  "projects": {
+    "title": "Projects",
+    "demo": "Demo",
+    "source": "Source",
+    "project0": {
+      "title": "Project Gastronomy",
+      "desc": "An online ordering app with menu management and administrative preferences."
+    },
+    "project1": {
+      "title": "Project FSPay",
+      "desc": "A fintech app developed to practice modern technologies and stack integration."
+    },
+    "project2": {
+      "title": "Project CRUD",
+      "desc": "A CRUD app built for learning purposes with fullstack integration."
+    }
+  },
+  "projectsTeam": {
+    "title": "Team Projects",
+    "demo": "Demo",
+    "source": "Source",
+    "project0": {
+      "title": "Integrated Project VI",
+      "desc": "Nutrition app for Xertica.ai, powered by AI and designed to provide insights through data analysis."
+    },
+    "project1": {
+      "title": "Integrated Project V",
+      "desc": "Mobile app for GSW company to manage expense reimbursements."
+    },
+    "project2": {
+      "title": "Integrated Project IV",
+      "desc": "Logistics system for JJM Log company to integrate its sectors and activities."
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Feel free to reach out!"
   }
 }

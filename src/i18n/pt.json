@@ -27,5 +27,69 @@
       "title": "Designer de UI",
       "desc": "Realizei pesquisas de design, criei interfaces visuais intuitivas e implementei layouts responsivos para a melhor experiência do usuário em qualquer dispositivo."
     }
+  },
+  "experience": {
+    "title": "Experiência",
+    "history": {
+      "0": {
+        "role": "Desenvolvedor Full Stack - Estagiário",
+        "organisation": "Redenção Turismo",
+        "startDate": "Jan, 2025",
+        "endDate": "Atual",
+        "experiences": {
+          "0": "Suporte no desenvolvimento de software, com: Python, Java, TypeScript, JavaScript, React e Node.js",
+          "1": "Manutenção de banco de dados (noSQL e SQL)",
+          "2": "Atendimento helpdesk",
+          "3": "Administração de sistemas Linux"
+        }
+      },
+      "1": {
+        "role": "Desenvolvedor Full Stack",
+        "organisation": "Freelancer",
+        "startDate": "Jun, 2024",
+        "endDate": "Dez, 2024",
+        "experiences": {
+          "0": "Atuei com desenvolvimento de softwares, desde correções de bugs até desenvolvimento de novas funcionalidades. Tecnologias utilizadas: React, Node.js, MongoDB, MySQL, Python e TypeScript."
+        }
+      }
+    }
+  },
+  "projects": {
+    "title": "Projetos",
+    "demo": "Demo",
+    "source": "Código",
+    "project0": {
+      "title": "Projeto Gastronomia",
+      "desc": "Um app de pedidos online com gerenciamento de cardápio e preferências administrativas."
+    },
+    "project1": {
+      "title": "Projeto FSPay",
+      "desc": "Um app fintech desenvolvido para praticar tecnologias modernas e integração de stack."
+    },
+    "project2": {
+      "title": "Projeto CRUD",
+      "desc": "Um app CRUD construído para aprendizado com integração fullstack."
+    }
+  },
+  "projectsTeam": {
+    "title": "Projetos em Grupo",
+    "demo": "Demo",
+    "source": "Código",
+    "project0": {
+      "title": "Projeto Integrado VI",
+      "desc": "Aplicativo de nutrição para a Xertica.ai, com IA e análise de dados para gerar insights."
+    },
+    "project1": {
+      "title": "Projeto Integrado V",
+      "desc": "Aplicativo mobile para a empresa GSW gerenciar reembolsos de despesas."
+    },
+    "project2": {
+      "title": "Projeto Integrado IV",
+      "desc": "Sistema para a empresa JJM Log integrar setores e atividades do setor logístico."
+    }
+  },
+  "contact": {
+    "title": "Contato",
+    "subtitle": "Fique à vontade para entrar em contato!"
   }
 }

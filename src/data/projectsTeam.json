@@ -1,26 +1,23 @@
 [
   {
-    "title": "Integrated Project V",
+    "id": 0,
+    "imageSrc": "projects/Xertica.png",
+    "skills": ["Vue", "PostgreSQL", "Java", "Python"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/DriftOps/API-VI"
+  },
+  {
+    "id": 1,
     "imageSrc": "projects/GSWProject.png",
-    "description": "This project is intended to help the GSW company to develop a mobile app to manage expense reimbursements.",
     "skills": ["React-native", "Node", "MongoDB"],
     "demo": "https://www.example.com",
     "source": "https://github.com/DriftOps/API-V"
   },
   {
-    "title": "Integrated Project IV",
+    "id": 2,
     "imageSrc": "projects/JJMProject.png",
-    "description": "This project is intended to assist the JJM Log company in the logistics sector, with integration of its sectors and activities.",
     "skills": ["React", "Node", "MySQL"],
     "demo": "https://www.example.com",
     "source": "https://github.com/DriftOps/API-IV"
-  },
-  {
-    "title": "Integrated Project III",
-    "imageSrc": "projects/Pro4TechProject.png",
-    "description": "This project is an application for the Pro4Tech company of a dashboard based on information provided from an excel (.xlsx) file.",
-    "skills": ["React", "Node", "MySQL"],
-    "demo": "https://www.example.com",
-    "source": "https://github.com/Code-Lotus/api-3"
   }
 ]
