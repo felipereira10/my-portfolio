@@ -3,14 +3,14 @@
     "id": 0,
     "imageSrc": "projects/Xertica.png",
     "skills": ["Vue", "PostgreSQL", "Java", "Python"],
-    "demo": "https://www.example.com",
+    "demo": "https://www.youtube.com/watch?v=KUwH5WR_sSo",
     "source": "https://github.com/DriftOps/API-VI"
   },
   {
     "id": 1,
     "imageSrc": "projects/GSWProject.png",
     "skills": ["React-native", "Node", "MongoDB"],
-    "demo": "https://www.example.com",
+    "demo": "/my-portfolio/GifGSW.gif",
     "source": "https://github.com/DriftOps/API-V"
   },
   {
